@@ -1,2 +1,2 @@
 # qskr
-golant euc-kr url encode / decode
+golang euc-kr url encode / decode
